@@ -16,7 +16,8 @@ For more than two decades, my career has centered on teaching, problem solving, 
 
 - `java-learning` — Java practice, APIs, object-oriented programming, debugging, and programming exercises
 - `web-design-learning` — HTML, CSS, JavaScript, and web development practice
-- More repositories coming as I continue building my COBOL and security work
+- `cobol-learning` — COBOL syntax, program structure, business logic, and enterprise programming concepts
+- Security application work — secure coding and application security practice
 
 ## Why this GitHub exists
 
